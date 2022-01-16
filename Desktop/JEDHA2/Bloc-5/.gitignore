@@ -1,0 +1,8 @@
+virt
+Old
+*.pyc
+.DS_Store
+.env
+.ipynb_checkpoints
+Untitled.ipynb
+winequality.csv
